@@ -2,12 +2,12 @@
 
 ## Introduction
 
-I'm **asdasdasd**.
+I'm **Terence1007**.
 
 
 ## Skills & Technologies
 
-
+HTML, python, roblox
 
 ## GitHub Stats
 
