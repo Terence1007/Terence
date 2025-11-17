@@ -29,16 +29,16 @@ HTML, Python, Roblox
 ## Games
 | Option | Description |
 | ------ | ----------- |
-| Roblox   | A popular game which contains a lot of game types, like a metaverse, e.g. shooting, roleplay, simulators... etc |
-| Valorant | A shooting game that contins tons of heroes and each of them have unique power |
-| Minecraft   | A pixel game which you have to mine the blocks, crafting gears, and fight tons of mobs |
+| Roblox   | A popular game which contains a lot of game types, like a metaverse, e.g. shooting, roleplay, simulators... etc. |
+| Valorant | A shooting game that contins tons of heroes and each of them have unique power. |
+| Minecraft   | A pixel game which you have to mine the blocks, crafting gears, and fight tons of mobs. |
 
 ## Social medias
 | Option | Description |
 | ------ | ----------- |
 | Instagram   | A social media where a lot of people sharing their storys and reels. |
-| Threads | Same as Instagram, but have more words other than reels, just for daily stuffs or discussion |
-| Facebook    | A social media which was popular before Instagram, a lot of adults been using this for sharing stuffs, kinda similar to Instagram and Threads |
+| Threads | Same as Instagram, but have more words other than reels, just for daily stuffs or discussion. |
+| Facebook    | A social media which was popular before Instagram, a lot of adults been using this for sharing stuffs, kinda similar to Instagram and Threads. |
 
 ## Anime
 | Option | Description |
