@@ -7,7 +7,7 @@ I'm **Terence1007**.
 
 ## Skills & Technologies
 
-HTML, python, roblox
+HTML, Python, Roblox
 
 ## GitHub Stats
 
@@ -15,13 +15,13 @@ HTML, python, roblox
 
 ## Recent Activity
 
-- **Pushed to [asdasd](asdasdasdasdasd)** on Nov 17, 2025  
-- **Created a new branch in [sadsad](asdasdasd)** on Nov 17, 2025  
-- **Updated README in [asdasd](asdasdasdasdasdas)** on Nov 17, 2025
+- **Pushed to [Terence1007](https://github.com/Terence1007/Terence)** on Nov 17, 2025  
+- **Created a new branch in [Terence1007](https://github.com/Terence1007/Terence)** on Nov 17, 2025  
+- **Updated README in [Terence1007](https://github.com/Terence1007/Terence)** on Nov 17, 2025
 
 ## Social Links
 <p align="left">
-<a href="sdfsdfsdfsdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghfghfghhghfgh" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/terence-liang-752767395/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/terence-liang-752767395/" height="30" width="40" /></a>
 </p>
 
 ---
@@ -40,9 +40,9 @@ HTML, python, roblox
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
 
-## Reading List
+## Anime
 | Option | Description |
 | ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| One Piece   | A pirate to start his adventure with his crewmates |
+| Dragon ball | Goku with his friend Bulma to find the missing dragon balls to summon the dragon for wishes |
+| Naruto   | basically about how Naruto becomes a hokage and how amazing his adventures was |
