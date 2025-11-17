@@ -26,23 +26,23 @@ HTML, Python, Roblox
 
 ---
 
-## Projects
+## Games
 | Option | Description |
 | ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| Roblox   | A popular game which contains a lot of game types, like a metaverse, e.g. shooting, roleplay, simulators... etc |
+| Valorant | A shooting game that contins tons of heroes and each of them have unique power |
+| Minecraft   | A pixel game which you have to mine the blocks, crafting gears, and fight tons of mobs |
 
-## Skills
+## Social medias
 | Option | Description |
 | ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| Instagram   | A social media where a lot of people sharing their storys and reels. |
+| Threads | Same as Instagram, but have more words other than reels, just for daily stuffs or discussion |
+| Facebook    | A social media which was popular before Instagram, a lot of adults been using this for sharing stuffs, kinda similar to Instagram and Threads |
 
 ## Anime
 | Option | Description |
 | ------ | ----------- |
 | One Piece   | A pirate to start his adventure with his crewmates |
 | Dragon ball | Goku with his friend Bulma to find the missing dragon balls to summon the dragon for wishes |
-| Naruto   | basically about how Naruto becomes a hokage and how amazing his adventures was |
+| Naruto   | Basically about how Naruto becomes a hokage and how amazing his adventures was |
